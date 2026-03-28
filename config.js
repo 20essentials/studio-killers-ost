@@ -1,0 +1,23 @@
+export const nameBand = 'STUDIO KILLERS';
+export let nameSongs = [
+	"JENNY ", /*1*/
+	"ODE TO THE BOUNCER", /*2*/
+	"ALL MEN ARE PIGS", /*3*/
+	"DIRTY CAR", /*4*/
+	"WHEN WE WERE LOVERS", /*5*/
+	"GRANDE FINALE", /*6*/
+	"EROS AND APOLLO", /*7*/
+	"WHO IS IN YOUR HEART NOW?", /*8*/
+	"FRIDAY NIGHT GURUS", /*9*/
+	"FUNKY AT HEART", /*10*/
+	"TRUE COLORS", /*11*/
+	"FLAWLESS", /*12*/
+	"IN TOKYO", /*13*/
+	"ODE TO THE BOUNCER", /*14*/
+	"RAINCOAT", /*15*/
+	"GRAND FINALE (SINGLE MIX)", /*16*/
+	"JENNY (ACOUSTIC COVER FOR LOVERS)", /*17*/
+	"SCHOOLYARD DANCE OFF", /*18*/
+	" UNDERNEATH MY RAINCOAT", /*19*/
+	"SOFT BITCH", /*20*/
+]
